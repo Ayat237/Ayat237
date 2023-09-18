@@ -16,7 +16,7 @@
 ### Connect with Me :
 
 <a href="https://www.linkedin.com/in/ayat-mohamed-35214221b/" target="_blank"><img src="https://img.shields.io/badge/-Ayat%20Mohamed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Tooling
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C)&nbsp;
 ![Avr](https://img.shields.io/badge/-Avr%20-05122A?style=flat&logo=Avr)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python&logoColor=563D7C)&nbsp;
