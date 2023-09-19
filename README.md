@@ -10,7 +10,7 @@
 </p> 
 
 - 🏢 I'm an Embedded Software Engineering
-- 👨‍💻 I'm  a student in engineering Helwan University,computer and systems depar
+- 👨‍💻 I'm  a student in engineering Helwan University,computer and systems department 
 
 
 ### Connect with Me :
