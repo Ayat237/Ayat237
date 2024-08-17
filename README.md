@@ -9,7 +9,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Embedded%20Software%20Engineering;Will%20not%20leave%20untill%20achieve&font=Fira%20Code&center=true&width=440&height=45&color=FFFF00&vCenter=true&size=22"></a>
 </p> 
 
-- 🏢 I'm an Embedded Software Engineering
+- 🏢 I'm an Embedded Software Engineer
 - 👨‍💻 I'm  a student in engineering Helwan University,computer and systems department 
 
 
