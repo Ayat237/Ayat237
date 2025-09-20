@@ -13,8 +13,7 @@
 ---
 
 - 🏢 Software Engineer | Computer & Systems Engineering student at Helwan University (Graduation: 2025)  
-- 🎓 Cumulative GPA: **Excellent (85%)**  
-- 👩‍💻 Passionate about **Embedded Systems, Backend Development, AI-powered projects, and IoT**  
+- 👩‍💻 Passionate about **Backend Development**  
 - 📍 Based in Cairo, Egypt  
 
 ---
